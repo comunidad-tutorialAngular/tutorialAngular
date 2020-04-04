@@ -1,5 +1,7 @@
 import { Cliente } from './cliente';
 
+
+//Agregar un comentario en el proyecto
 export const CLIENTES: Cliente[]=[
   {id:1,nombre:'nombre1', apellido:'apellido1', email:'email1', createAt:'2017-12-11'},
   {id:2,nombre:'nombre2', apellido:'apellido2', email:'email2', createAt:'2017-12-11'},
